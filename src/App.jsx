@@ -4,10 +4,6 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  console.log("hello world the World");
-  
-   
-
   return (
     <>
     <div className="relative flex h-auto min-h-screen w-full flex-col group/design-root overflow-x-hidden">
