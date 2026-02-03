@@ -94,7 +94,7 @@ function App() {
               <div className="flex flex-col sm:flex-row flex-1 gap-4 flex-wrap px-4 py-3 max-w-2xl justify-center">
                 <button className="flex min-w-[120px] max-w-full cursor-pointer items-center justify-center overflow-hidden rounded-xl h-20 px-5 bg-primary text-background-dark text-lg font-bold leading-normal tracking-[0.015em] grow flex-col gap-1 transition-transform hover:scale-105 active:scale-95">
                   <span className="material-symbols-outlined !text-4xl">
-                    rocket
+                    rocket 🪨
                   </span>
                   <span className="truncate">Rock</span>
                 </button>
@@ -102,13 +102,13 @@ function App() {
                   <span className="material-symbols-outlined !text-4xl">
                     description
                   </span>
-                  <span className="truncate">Paper</span>
+                  <span className="truncate">Paper 📃</span>
                 </button>
                 <button className="flex min-w-[120px] max-w-full cursor-pointer items-center justify-center overflow-hidden rounded-xl h-20 px-5 bg-primary text-background-dark text-lg font-bold leading-normal tracking-[0.015em] grow flex-col gap-1 transition-transform hover:scale-105 active:scale-95">
                   <span className="material-symbols-outlined !text-4xl">
                     content_cut
                   </span>
-                  <span className="truncate">Scissors</span>
+                  <span className="truncate">Scissors ✂️</span>
                 </button>
               </div>
             </div>
