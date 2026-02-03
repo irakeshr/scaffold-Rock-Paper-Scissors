@@ -4,6 +4,8 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
+  console.log("hello world the World");
+  
    
 
   return (
